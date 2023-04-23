@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Africook/static/css/main.72b82693.css",
-    "main.js": "/Africook/static/js/main.56a75da5.js",
+    "main.js": "/Africook/static/js/main.fb749bec.js",
     "static/media/spaghetti-2931846_960_720 (1).jpg": "/Africook/static/media/spaghetti-2931846_960_720 (1).8c68484c90476c94be87.jpg",
     "index.html": "/Africook/index.html",
     "main.72b82693.css.map": "/Africook/static/css/main.72b82693.css.map",
-    "main.56a75da5.js.map": "/Africook/static/js/main.56a75da5.js.map"
+    "main.fb749bec.js.map": "/Africook/static/js/main.fb749bec.js.map"
   },
   "entrypoints": [
     "static/css/main.72b82693.css",
-    "static/js/main.56a75da5.js"
+    "static/js/main.fb749bec.js"
   ]
 }

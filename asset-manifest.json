@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Africook/static/css/main.53491313.css",
+    "main.js": "/Africook/static/js/main.8dbc5796.js",
+    "static/media/orange-newt.webp": "/Africook/static/media/orange-newt.8067c15c87f30c9b3efa.webp",
+    "index.html": "/Africook/index.html",
+    "main.53491313.css.map": "/Africook/static/css/main.53491313.css.map",
+    "main.8dbc5796.js.map": "/Africook/static/js/main.8dbc5796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53491313.css",
+    "static/js/main.8dbc5796.js"
+  ]
+}
